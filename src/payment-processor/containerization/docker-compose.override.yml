@@ -1,0 +1,3 @@
+services:
+  payment-processor:
+    image: zanfranceschi-payment-processor-2025:latest
